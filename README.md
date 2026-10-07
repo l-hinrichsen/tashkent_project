@@ -1,12 +1,10 @@
-# Interconnected Places — Translated in Tashkent
+# Interconnected Places — Tashkent Translations
 
-This repository holds my spatial history project for the Interconnected Places Lab (HIST 1907). It maps one place and the places it was connected to.
+This repository holds my spatial history project for the Interconnected Places Lab (HIST 1907). It maps Tashkent and the places it was connected to.
 
 ## About this project
 
-*(Replace this with a sentence or two about your own place: what it is, the time period, and what its main connections are.)*
-
-Example: This project maps Bombay in the late nineteenth century and the network of places its cotton-textile industry connected it to — across Maharashtra and around the Indian Ocean world.
+This is a project centered around Tashkent in the 1930s, loosely before, during, and after Stalin's Great Terror. To connect Tashkent to the broader world, I am tracking translations of major texts that were published in Uzbek in Tashkent in this same timeframe.
 
 ## The files
 
