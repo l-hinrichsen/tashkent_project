@@ -26,4 +26,4 @@ Every place has three pieces of information, spelled exactly this way:
 
 ## My live map
 
-*(After you turn on GitHub Pages, paste your public link here.)*
+Map is live at https://l-hinrichsen.github.io/tashkent_project/
